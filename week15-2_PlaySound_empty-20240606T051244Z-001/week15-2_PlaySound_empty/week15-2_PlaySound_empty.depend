@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717052439 source:c:\users\administrator\desktop\week15-2_playsound_empty\main.cpp
+	<windows.h>
+	<stdio.h>
+
